@@ -1,0 +1,40 @@
+---
+product-family:
+  title: StorageGRID のドキュメント
+  lead: NetApp StorageGRID は、ソフトウェアで定義されるオブジェクトストレージスイートで、パブリック、プライベート、ハイブリッドのマルチクラウド環境での幅広いユースケースに対応します。StorageGRID
+    はAmazon S3 APIをネイティブでサポートし、自動化されたライフサイクル管理などの業界をリードする革新的なテクノロジを提供して、非構造化データを長期にわたってコスト効率よく格納、保護、保持します。
+  summary: NetApp StorageGRID は、ソフトウェアで定義されるオブジェクトストレージスイートで、パブリック、プライベート、ハイブリッドのマルチクラウド環境での幅広いユースケースに対応します。StorageGRID
+    はAmazon S3 APIをネイティブでサポートし、自動化されたライフサイクル管理などの業界をリードする革新的なテクノロジを提供して、非構造化データを長期にわたってコスト効率よく格納、保護、保持します。
+  sidebarlinks:
+  - title: すべて
+    tags: all
+    class: active
+  - title: はじめに
+    tags: get_started
+  - title: ソフトウェアの設定と使用
+    tags: storagegrid
+  - title: アプライアンスのインストールとメンテナンス
+    tags: appliances
+  - title: 統合と実現
+    tags: enable
+  tiles:
+  - title: StorageGRID の詳細をご覧ください
+    icon: "./media/groups_line.png"
+    url: intro-family.html
+    summary: StorageGRIDの詳細をご覧ください。
+    tags: all, get_started, storagegrid, appliances, enable
+  - title: StorageGRID 11.8ドキュメント
+    icon: "./media/config_line.png"
+    url: "../storagegrid-118/index.html"
+    summary: StorageGRID 11.8ソフトウェアを設定して使用する。
+    tags: all, storagegrid
+  - title: StorageGRIDアプライアンス
+    icon: "./media/icon-onprem.png"
+    url: "../storagegrid-appliances/index.html"
+    summary: StorageGRIDアプライアンスのインストールとメンテナンス
+    tags: all, appliances
+  - title: StorageGRID を有効にします
+    icon: "./media/synergy.png"
+    url: "../storagegrid-enable/index.html"
+    summary: StorageGRIDをテスト、統合、有効化します。
+    tags: all, enable

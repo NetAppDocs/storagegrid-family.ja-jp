@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="8727881150b0ace8b598a648cdfcd4e1" category="summary">NetApp StorageGRID は、ソフトウェアで定義されるオブジェクトストレージスイートで、パブリック、プライベート、ハイブリッドのマルチクラウド環境での幅広いユースケースに対応します。StorageGRID はAmazon S3 APIをネイティブでサポートし、自動化されたライフサイクル管理などの業界をリードする革新的なテクノロジを提供して、非構造化データを長期にわたってコスト効率よく格納、保護、保持します。</block>
+  <block id="4a4dbf02e8eff8088b2776662f9d29f0" category="doc">StorageGRID の詳細をご覧ください</block>
+  <block id="4103efcb405cc1121103531bf09c715d" category="paragraph">StorageGRID は、大規模な非構造化データを長期間保管するためのセキュアなストレージを提供します。メタデータベースの統合ライフサイクル管理ポリシーによって、データのライフサイクルを通して最適な保存先が選択されます。コンテンツは適切な場所、適切なタイミングで、適切なストレージ階層に配置されるため、コストを削減できます。</block>
+  <block id="2ba3c537f55a653f682dcc17939b5db3" category="paragraph">StorageGRID は、地理的に分散した冗長で種類の異なる複数のノードで構成されており、既存および次世代のクライアントアプリケーションと統合できます。</block>
+  <block id="8eec3f2e5c96b2a164209e8f32f4ee0f" category="section-title">StorageGRID のメリット</block>
+  <block id="71f7459e7e82312f4969ac698c7c0434" category="paragraph">StorageGRID システムには次の利点があります。</block>
+  <block id="9bcc6b6f2deb9d2acce755b03630840c" category="list-text">非構造化データ用に地理的に分散したデータリポジトリを拡張性にきわめて優れ、使いやすくなっています。</block>
+  <block id="18bde5c8ee320ea49ba70e35d2239ecf" category="list-text">Amazon Web Services Simple Storage Service（S3）プロトコルのサポート</block>
+  <block id="4bf292ec47b1a0a2f20bd493ae425806" category="list-text">ハイブリッドクラウドの実現：ポリシーベースの情報ライフサイクル管理（ ILM ）を使用して、 Amazon Web Services （ AWS ）や Microsoft Azure などのパブリッククラウドにオブジェクトを格納できます。StorageGRID プラットフォームサービスを使用すると、パブリッククラウドに格納されたオブジェクトのコンテンツレプリケーション、イベント通知、メタデータ検索を行うことができます。</block>
+  <block id="84b564142dcdb248382f6f1fe90469d7" category="list-text">柔軟なデータ保護で、データの保持性と可用性を確保レプリケーションと階層型イレイジャーコーディングを使用してデータを保護できます。保存データと転送中データの検証により、長期保持の整合性を確保します。</block>
+  <block id="0eb71cf924e8b745d26e24ae56842668" category="list-text">動的なデータライフサイクル管理でストレージコストの管理を支援オブジェクトレベルでデータのライフサイクルを管理する ILM ルールを作成し、データの格納場所、保持性、パフォーマンス、コスト、保持期間を調整できます。</block>
+  <block id="3d0aaecf6c69886c98a934f5e49f3aee" category="list-text">データストレージの高可用性と一部の管理機能。ロードバランシングの統合により、 StorageGRID リソース全体のデータ負荷を最適化します。</block>
+  <block id="9b0066a52d6f53e528fce2d8015f066d" category="list-text">複数のストレージテナントアカウントをサポート。システムに格納されているオブジェクトをエンティティごとに分離できます。</block>
+  <block id="df8042c3830b9439a1beebda75833c9e" category="list-text">包括的なアラートシステム、グラフィカルダッシュボード、すべてのノードとサイトの詳細なステータスなど、 StorageGRID システムの健全性を監視するための多数のツールが用意されています。</block>
+  <block id="4461fae15f93d7f72cba9bb983bb2e76" category="list-text">ソフトウェアベースまたはハードウェアベースの導入をサポート。StorageGRID は次のいずれかに導入できます。</block>
+  <block id="fd1b7d8d664417ae1c96d195b510f2fa" category="list-text">VMware で実行される仮想マシン。</block>
+  <block id="e154947a79b58797a4247b5e06dc6f4c" category="list-text">Linux ホスト上のコンテナエンジン。</block>
+  <block id="81863930b2fb941308d892d4cfc05ad9" category="list-text">StorageGRID 社が開発したアプライアンス。</block>
+  <block id="ff7d8c2459b9fb9bc54977cc7e972341" category="list-text">ストレージアプライアンスはオブジェクトストレージを提供します。</block>
+  <block id="54f698e9a60d165d4a08621f71cec95c" category="list-text">サービスアプライアンスは、グリッド管理サービスとロードバランシングサービスを提供します。</block>
+  <block id="a42eb347271e6ed1c2ac1d09aa48cd36" category="list-text">以下の規制に関連するストレージ要件に準拠しています。</block>
+  <block id="6b8d5cabd694cc1228952d1a9e86217b" category="list-text">取引所会員や株式仲買業者を規制するための 17 CFR § 240.17a-4 （ f ）における証券取引委員会（ SEC ）</block>
+  <block id="e76583d116c000732e95998e3cd69d56" category="list-text">金融業界規制機関（ FINRA ）ルール 4511 （ c ）。 SEC ルール 17a-4 （ f ）の形式とメディア要件は先延ばしになります。</block>
+  <block id="14c8ef59a622fc7a7db7883604504c4d" category="list-text">商品先物取引を規制するための 17 CFR § 1.31 （ c ） - （ d ）規制の商品先物取引委員会（ CFTC ）</block>
+  <block id="b084a731794587a11af81afbc77326a5" category="list-text">無停止のアップグレード処理とメンテナンス処理。アップグレード、拡張、運用停止、メンテナンスの実行中も、コンテンツにアクセスできます。</block>
+  <block id="0efa1e4882326f4a16d4e2d9f490a268" category="list-text">フェデレーテッドアイデンティティ管理。ユーザ認証を行うために、 Active Directory 、 OpenLDAP 、または Oracle のディレクトリサービスと統合します。Security Assertion Markup Language 2.0 （ SAML 2.0 ）規格を使用してシングルサインオン（ SSO ）をサポートし、 StorageGRID と Active Directory フェデレーションサービス（ AD FS ）間で認証および許可データをやり取りします。</block>
+  <block id="2d4f4568ad652ff08727bc044f1373cc" category="section-title">StorageGRID ソフトウェア</block>
+  <block id="30be66bcfef2e328f8fadba5f17d7d53" category="inline-link">StorageGRID 11.8のドキュメント</block>
+  <block id="791d2160592b03552a353b3c990254af" category="list-text"><block ref="791d2160592b03552a353b3c990254af" category="inline-link-rx"></block></block>
+  <block id="0d88061b25d41ea9ebd2a838d2e7d97c" category="inline-link">StorageGRID 11.7のドキュメント</block>
+  <block id="23ba15311ab61c5cbe711a6e2af03fb8" category="list-text"><block ref="23ba15311ab61c5cbe711a6e2af03fb8" category="inline-link-rx"></block></block>
+  <block id="d230fedbcdb888124f0cd7c7b8424de2" category="inline-link">StorageGRID 11.6のドキュメント</block>
+  <block id="361b412f71e99d816037ef3fa0afc82e" category="list-text"><block ref="361b412f71e99d816037ef3fa0afc82e" category="inline-link-rx"></block></block>
+  <block id="ab398ea621033d0dc867640f4114bddd" category="inline-link">StorageGRID 11.5のドキュメント</block>
+  <block id="f1ab3ca97f008a1135bcf43e6777236b" category="list-text"><block ref="f1ab3ca97f008a1135bcf43e6777236b" category="inline-link-rx"></block></block>
+  <block id="cdf357067f64d280c93a14932a48e892" category="inline-link">StorageGRID 11.4のドキュメント</block>
+  <block id="e57f93d05d4a3ec00b3bc61307781a1c" category="list-text"><block ref="e57f93d05d4a3ec00b3bc61307781a1c" category="inline-link-rx"></block></block>
+  <block id="9283e244bcd98f1bdd350c1b4f2da148" category="section-title">StorageGRIDアプライアンス</block>
+  <block id="3ac6c44d69f35b6d74f7324d21a94cc3" category="list-text"><block ref="3ac6c44d69f35b6d74f7324d21a94cc3" category="inline-link-rx"></block></block>
+  <block id="696ea9ebe2a9f57bb062aba5c1d58b10" category="section-title">環境でStorageGRID を有効にする方法</block>
+  <block id="fa7f52ddda62fe1d2363b41a26e0b3d7" category="paragraph">に進みます<block ref="0e0fa9204b8188a393de62aba466cfd2" category="inline-link-rx"></block> を参照して、StorageGRID 環境でアプリケーションをテストして有効にする方法を確認してください。</block>
+  <block id="73d37b18fd6bead589b7f5fbc79b27fe" category="paragraph">storagegrid-enable*ドキュメントサイトには、このサイトの製品ドキュメントを拡張した例と料理本が掲載されています。また、StorageGRID を評価して統合するための次のステップについても説明しています。</block>
+  <block id="184be814f5401398fdf0f1ce3a702551" category="paragraph">次のような情報が含まれています。</block>
+  <block id="524a8f1f430dca0d85bebbcd3c376862" category="list-text">過去および現在のStorageGRID リリースに対応する、検証済みのサードパーティ製ソリューションのリスト。</block>
+  <block id="8dfc12a5cc6be10182743183e843c496" category="list-text">製品機能ガイド。たとえば、これらのガイドには、クラウドストレージプールの作成に必要なすべての情報が記載されています。</block>
+  <block id="1d633b4a689ee09de3a2f149c37d8cbe" category="list-text">ツールおよびアプリケーションガイド。</block>
+  <block id="e2ac36e2f684920c9531933bf719a29d" category="list-text">S3の暗号化やS3オブジェクトのロックなど、StorageGRID 機能を使用するためのAPIの例。</block>
+  <block id="3778f3873debfe11e2ace6bb6af1e417" category="sidebar">StorageGRID のドキュメント</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">すべて</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">はじめに</block>
+  <block id="5a76b3354641a0ee1eafa565566eb40c" category="sidebar">ソフトウェアの設定と使用</block>
+  <block id="54443d07c5144ff60a6d1b392bfa38ab" category="sidebar">アプライアンスのインストールとメンテナンス</block>
+  <block id="70f6d24bd76769700db7148daa023203" category="sidebar">統合と実現</block>
+  <block id="f28dd420a905feeaad6af72f8f14c37a" category="sidebar">StorageGRIDの詳細をご覧ください。</block>
+  <block id="7bb5d1e21ca0bacc168d63d7155d3755" category="sidebar">StorageGRID 11.8ドキュメント</block>
+  <block id="b94aedd414153a7e1052ca7ea0520bb9" category="sidebar">StorageGRID 11.8ソフトウェアを設定して使用する。</block>
+  <block id="712e6d735bf838e66fe9802328c8678c" category="sidebar">StorageGRIDアプライアンスのインストールとメンテナンス</block>
+  <block id="09f63f5e49731771c9b8f2aea5094d6c" category="sidebar">StorageGRID を有効にします</block>
+  <block id="bf71942427df023dd78c7339d32c9019" category="sidebar">StorageGRIDをテスト、統合、有効化します。</block>
+  <block id="4513d952ab095f79bf0ba9f1fbf61b7e" category="sidebar">StorageGRID製品ドキュメント</block>
+</blocks>
