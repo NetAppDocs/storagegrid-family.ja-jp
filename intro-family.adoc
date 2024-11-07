@@ -21,10 +21,10 @@ StorageGRID は、地理的に分散した冗長で種類の異なる複数の�
 
 == StorageGRID のメリット
 
-StorageGRID システムには次の利点があります。
+StorageGRIDシステムには次のような利点があります。
 
-* 非構造化データ用に地理的に分散したデータリポジトリを拡張性にきわめて優れ、使いやすくなっています。
-* Amazon Web Services Simple Storage Service（S3）プロトコルのサポート
+* 拡張性にきわめて優れ、使いやすい、地理的に分散された非構造化データリポジトリです。
+* Amazon Web Services Simple Storage Service（S3）プロトコルがサポートされます。
 * ハイブリッドクラウドの実現：ポリシーベースの情報ライフサイクル管理（ ILM ）を使用して、 Amazon Web Services （ AWS ）や Microsoft Azure などのパブリッククラウドにオブジェクトを格納できます。StorageGRID プラットフォームサービスを使用すると、パブリッククラウドに格納されたオブジェクトのコンテンツレプリケーション、イベント通知、メタデータ検索を行うことができます。
 * 柔軟なデータ保護で、データの保持性と可用性を確保レプリケーションと階層型イレイジャーコーディングを使用してデータを保護できます。保存データと転送中データの検証により、長期保持の整合性を確保します。
 * 動的なデータライフサイクル管理でストレージコストの管理を支援オブジェクトレベルでデータのライフサイクルを管理する ILM ルールを作成し、データの格納場所、保持性、パフォーマンス、コスト、保持期間を調整できます。
@@ -56,20 +56,21 @@ StorageGRID システムには次の利点があります。
 
 
 
-== StorageGRID ソフトウェア
+== StorageGRID のドキュメント
 
-* https://docs.netapp.com/us-en/storagegrid-118/["StorageGRID 11.8のドキュメント"^]
-* https://docs.netapp.com/us-en/storagegrid-117/["StorageGRID 11.7のドキュメント"^]
-* https://docs.netapp.com/us-en/storagegrid-116/["StorageGRID 11.6のドキュメント"^]
-* https://docs.netapp.com/us-en/storagegrid-115/["StorageGRID 11.5のドキュメント"^]
-* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023["StorageGRID 11.4のドキュメント"^]
+* https://docs.netapp.com/us-en/storagegrid/["StorageGRIDソフトウェアドキュメントサイト"^]
+* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRIDアプライアンスのドキュメントサイト"^]
 
 
+以前のバージョンのStorageGRIDソフトウェアのドキュメントは、次のURLから入手できます。
 
-
-== StorageGRIDアプライアンス
-
-* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRIDアプライアンス"^]
+* https://docs.netapp.com/us-en/storagegrid-118/index.html["StorageGRID 11.8ドキュメント"^]
+* https://docs.netapp.com/us-en/storagegrid-117/index.html["StorageGRID 11.7ドキュメント"^]
+* https://docs.netapp.com/us-en/storagegrid-116/index.html["StorageGRID 11.6ドキュメント"^]
+* https://docs.netapp.com/us-en/storagegrid-115/index.html["StorageGRID 11.5ドキュメント"^]
+* https://docs.netapp.com/sgws-114/index.jsp["StorageGRID 11.4ドキュメントセンター"^]
+* https://docs.netapp.com/sgws-113/index.jsp["StorageGRID 11.3ドキュメントセンター"^]
+* https://docs.netapp.com/sgws-112/index.jsp["StorageGRID 11.2ドキュメントセンター"^]
 
 
 
