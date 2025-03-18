@@ -56,25 +56,6 @@ StorageGRIDシステムには次のような利点があります。
 
 
 
-== StorageGRID のドキュメント
-
-* https://docs.netapp.com/us-en/storagegrid/["StorageGRIDソフトウェアドキュメントサイト"^]
-* https://docs.netapp.com/us-en/storagegrid-appliances/["StorageGRIDアプライアンスのドキュメントサイト"^]
-
-
-以前のバージョンのStorageGRIDソフトウェアのドキュメントは、次のURLから入手できます。
-
-* https://docs.netapp.com/us-en/storagegrid-118/index.html["StorageGRID 11.8ドキュメント"^]
-* https://docs.netapp.com/us-en/storagegrid-117/index.html["StorageGRID 11.7ドキュメント"^]
-* https://docs.netapp.com/us-en/storagegrid-116/index.html["StorageGRID 11.6ドキュメント"^]
-* https://docs.netapp.com/us-en/storagegrid-115/index.html["StorageGRID 11.5ドキュメント"^]
-* https://docs.netapp.com/sgws-114/index.jsp["StorageGRID 11.4ドキュメントセンター"^]
-* https://docs.netapp.com/sgws-113/index.jsp["StorageGRID 11.3ドキュメントセンター"^]
-* https://docs.netapp.com/sgws-112/index.jsp["StorageGRID 11.2ドキュメントセンター"^]
-
-
-
-
 == 環境でStorageGRID を有効にする方法
 
 に進みます https://docs.netapp.com/us-en/storagegrid-enable/index.html["環境でStorageGRID を有効にする方法"^] を参照して、StorageGRID 環境でアプリケーションをテストして有効にする方法を確認してください。
