@@ -23,7 +23,7 @@ product-family:
     url: intro-family.html
     summary: StorageGRIDの詳細と以前のバージョンのStorageGRIDのドキュメントを参照できます。
     tags: all, get_started, storagegrid, appliances, enable
-  - title: StorageGRID のドキュメント
+  - title: StorageGRID ソフトウェア
     icon: "./media/config_line.png"
     url: "../storagegrid/index.html"
     summary: 最新のStorageGRIDソフトウェアをインストール、設定、保守します。
