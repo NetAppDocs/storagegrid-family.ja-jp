@@ -24,9 +24,6 @@
   <block id="b084a731794587a11af81afbc77326a5" category="list-text">無停止のアップグレード処理とメンテナンス処理。アップグレード、拡張、運用停止、メンテナンスの実行中も、コンテンツにアクセスできます。</block>
   <block id="0efa1e4882326f4a16d4e2d9f490a268" category="list-text">フェデレーテッドアイデンティティ管理。ユーザ認証を行うために、 Active Directory 、 OpenLDAP 、または Oracle のディレクトリサービスと統合します。Security Assertion Markup Language 2.0 （ SAML 2.0 ）規格を使用してシングルサインオン（ SSO ）をサポートし、 StorageGRID と Active Directory フェデレーションサービス（ AD FS ）間で認証および許可データをやり取りします。</block>
   <block id="9283e244bcd98f1bdd350c1b4f2da148" category="section-title">StorageGRIDアプライアンス</block>
-  <block id="696ea9ebe2a9f57bb062aba5c1d58b10" category="section-title">環境でStorageGRID を有効にする方法</block>
-  <block id="fa7f52ddda62fe1d2363b41a26e0b3d7" category="paragraph">に進みます<block ref="0e0fa9204b8188a393de62aba466cfd2" category="inline-link-rx"></block> を参照して、StorageGRID 環境でアプリケーションをテストして有効にする方法を確認してください。</block>
-  <block id="73d37b18fd6bead589b7f5fbc79b27fe" category="paragraph">storagegrid-enable*ドキュメントサイトには、このサイトの製品ドキュメントを拡張した例と料理本が掲載されています。また、StorageGRID を評価して統合するための次のステップについても説明しています。</block>
   <block id="184be814f5401398fdf0f1ce3a702551" category="paragraph">次のような情報が含まれています。</block>
   <block id="524a8f1f430dca0d85bebbcd3c376862" category="list-text">過去および現在のStorageGRID リリースに対応する、検証済みのサードパーティ製ソリューションのリスト。</block>
   <block id="8dfc12a5cc6be10182743183e843c496" category="list-text">製品機能ガイド。たとえば、これらのガイドには、クラウドストレージプールの作成に必要なすべての情報が記載されています。</block>
@@ -39,7 +36,6 @@
   <block id="54443d07c5144ff60a6d1b392bfa38ab" category="sidebar">アプライアンスのインストールとメンテナンス</block>
   <block id="70f6d24bd76769700db7148daa023203" category="sidebar">統合と実現</block>
   <block id="712e6d735bf838e66fe9802328c8678c" category="sidebar">StorageGRIDアプライアンスのインストールとメンテナンス</block>
-  <block id="09f63f5e49731771c9b8f2aea5094d6c" category="sidebar">StorageGRID を有効にします</block>
   <block id="bf71942427df023dd78c7339d32c9019" category="sidebar">StorageGRIDをテスト、統合、有効化します。</block>
   <block id="4513d952ab095f79bf0ba9f1fbf61b7e" category="sidebar">StorageGRID製品ドキュメント</block>
   <block id="2903b0229e2eabe7c06f0db799dc3424" category="paragraph">StorageGRIDシステムには次のような利点があります。</block>
@@ -48,4 +44,7 @@
   <block id="6ba5a3e836a472999763351a7cad7f18" category="sidebar">StorageGRIDの詳細と以前のバージョンのStorageGRIDのドキュメントを参照できます。</block>
   <block id="e9f9bf9315d711c436dc24b43b0201ea" category="sidebar">最新のStorageGRIDソフトウェアをインストール、設定、保守します。</block>
   <block id="2d4f4568ad652ff08727bc044f1373cc" category="sidebar">StorageGRID ソフトウェア</block>
+  <block id="4acae57d3119f0b81d2bfd14c9585f13" category="section-title">StorageGRIDソリューションとリソース</block>
+  <block id="7a4f669ff4b9f9df5860c2049386e61b" category="paragraph">へ移動<block ref="f382e11c205630073ea43ce3c4862094" category="inline-link-rx"></block>StorageGRID環境でアプリケーションをテストおよび有効化する方法を学習します。</block>
+  <block id="ab1a62ba7061547a3e40c2c2e68d2227" category="paragraph">* StorageGRIDソリューションとリソース* では、このサイトの製品ドキュメントを拡張する例とクックブックが提供され、 StorageGRIDを評価および統合するための次の手順について説明します。</block>
 </blocks>

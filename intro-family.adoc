@@ -56,11 +56,11 @@ StorageGRIDシステムには次のような利点があります。
 
 
 
-== 環境でStorageGRID を有効にする方法
+== StorageGRIDソリューションとリソース
 
-に進みます https://docs.netapp.com/us-en/storagegrid-enable/index.html["環境でStorageGRID を有効にする方法"^] を参照して、StorageGRID 環境でアプリケーションをテストして有効にする方法を確認してください。
+へ移動 https://docs.netapp.com/us-en/storagegrid-enable/index.html["StorageGRIDソリューションとリソース"^]StorageGRID環境でアプリケーションをテストおよび有効化する方法を学習します。
 
-storagegrid-enable*ドキュメントサイトには、このサイトの製品ドキュメントを拡張した例と料理本が掲載されています。また、StorageGRID を評価して統合するための次のステップについても説明しています。
+* StorageGRIDソリューションとリソース* では、このサイトの製品ドキュメントを拡張する例とクックブックが提供され、 StorageGRIDを評価および統合するための次の手順について説明します。
 
 次のような情報が含まれています。
 
