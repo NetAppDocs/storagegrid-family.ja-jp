@@ -19,6 +19,7 @@ StorageGRID は、地理的に分散した冗長で種類の異なる複数の�
 
 
 
+[[storagegrid-benefits]]
 == StorageGRID のメリット
 
 StorageGRIDシステムには次のような利点があります。
@@ -56,6 +57,7 @@ StorageGRIDシステムには次のような利点があります。
 
 
 
+[[storagegrid-solutions-and-resources]]
 == StorageGRIDソリューションとリソース
 
 へ移動 https://docs.netapp.com/us-en/storagegrid-enable/index.html["StorageGRIDソリューションとリソース"^]StorageGRID環境でアプリケーションをテストおよび有効化する方法を学習します。
